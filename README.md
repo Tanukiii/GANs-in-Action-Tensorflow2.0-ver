@@ -4,7 +4,67 @@
 もし間違いがあれば、教えていただけると幸いです。
 (｀・ω・´)
 
-### List of available code: 
+
+## Summary Installation
+
+  - [Installation](#Installation)
+  - [Chapter 2](#Chapter 2)
+  - [Chapter 3](#Chapter 3)
+  - [Chapter 4](#Chapter 4)
+  - [Chapter 5](#Chapter 5)
+  - [Chapter 6](#Chapter 6)
+  - [Chapter 7](#Chapter 7)
+  - [Chapter 8](#Chapter 8)
+  - [Chapter 9](#Chapter 9)
+  - [Chapter 10](#Chapter 10)
+  
+
+
+## Installation
+- Python 3.6.8
+
+- tensorflow 2.3.1
+
+- tensorflow-datasets 3.2.1
+
+- tensorflow-hub 0.6.0
+
+- tensorflow-text 2.3.0
+
+
+
+
+## Chapter 2
+
+
+
+## Chapter 3
+
+
+
+## Chapter 4
+
+
+## Chapter 5
+
+
+## Chapter 6
+
+
+## Chapter 7
+
+
+## Chapter 8
+
+
+## Chapter 9
+
+
+## Chapter 10
+
+
+
+### Original code: 
 * Chapter 2: [Colab](https://colab.research.google.com/drive/1CPz-YvvJV8gHlsD2o68B0FYKFzaT6RCA), [Notebook](https://github.com/GANs-in-Action/gans-in-action/tree/master/chapter-2)
 * Chapter 3: [Notebook](https://github.com/GANs-in-Action/gans-in-action/tree/master/chapter-3)
 * Chapter 4: [Notebook](https://github.com/GANs-in-Action/gans-in-action/tree/master/chapter-4)
