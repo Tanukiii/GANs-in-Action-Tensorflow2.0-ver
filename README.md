@@ -1,7 +1,8 @@
 # [GANs in Action](https://www.manning.com/books/gans-in-action)
-###### by [Jakub Langr](https://github.com/jakubLangr) and [Vladimir Bok](https://github.com/vbok)
 
-<img src="/img/GANs_in_Action_cover.png" width="50%">
+こちらは実践GAN(GANs-in-Action)をTensorflow2.0で自分なりに書き直して、学習の為に注釈をつけたものです。
+もし間違いがあれば、教えていただけると幸いです。
+(｀・ω・´)
 
 ### List of available code: 
 * Chapter 2: [Colab](https://colab.research.google.com/drive/1CPz-YvvJV8gHlsD2o68B0FYKFzaT6RCA), [Notebook](https://github.com/GANs-in-Action/gans-in-action/tree/master/chapter-2)
