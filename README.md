@@ -18,8 +18,8 @@
   - [Chapter 8](#Chapter8)
   - [Chapter 9](#Chapter9)
   - [Chapter 10](#Chapter10)
-  - [Chapter 10](#Chapter11)
-  - [Chapter 10](#Chapter12)
+  - [Chapter 11](#Chapter11)
+  - [Chapter 12](#Chapter12)
   
 
 ## Installation
@@ -51,33 +51,33 @@
 # Part 2 GANの発展的な話題  
  
 
-## Chapter 5
+## Chapter5
 訓練とよくある課題：GANをうまく動かすために
 
-## Chapter 6
+## Chapter6
 プログレッシブなGAN 
 
-## Chapter 7
+## Chapter7
 半教師あり学習 
 
-## Chapter 8
+## Chapter8
 条件付きGAN 
 
 
 ## Part 3 ここからどこへ進むべきか 
 
 
-## Chapter 9
+## Chapter9
 CycleGAN 
 
-## Chapter 10
+## Chapter10
 敵対的サンプル
 
 
-## Chapter 11
+## Chapter11
 GANの実用的な応用
 
-## Chapter 12
+## Chapter12
 将来に向けて
 
 ### Original code: 
