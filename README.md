@@ -37,15 +37,15 @@
 # Part 1 GANと生成モデル入門 
  
  
-## Chapter 2
+## Chapter2
 オートエンコーダを用いた生成モデル VAE
 
 
-## Chapter 3
+## Chapter3
 はじめてのGAN：手書き文字の生成 
 
 
-## Chapter 4
+## Chapter4
 深層畳み込みGAN：DCGAN 
 
 # Part 2 GANの発展的な話題  
