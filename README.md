@@ -4,21 +4,23 @@
 もし間違いがあれば、教えていただけると幸いです。
 (｀・ω・´)
 
+僕の[ブログ](https://tanuki.blog)です。
 
 ## Summary Installation
 
   - [Installation](#Installation)
-  - [Chapter 2](#Chapter 2)
-  - [Chapter 3](#Chapter 3)
-  - [Chapter 4](#Chapter 4)
-  - [Chapter 5](#Chapter 5)
-  - [Chapter 6](#Chapter 6)
-  - [Chapter 7](#Chapter 7)
-  - [Chapter 8](#Chapter 8)
-  - [Chapter 9](#Chapter 9)
-  - [Chapter 10](#Chapter 10)
+  - [Chapter 2](#Chapter2)
+  - [Chapter 3](#Chapter3)
+  - [Chapter 4](#Chapter4)
+  - [Chapter 5](#Chapter5)
+  - [Chapter 6](#Chapter6)
+  - [Chapter 7](#Chapter7)
+  - [Chapter 8](#Chapter8)
+  - [Chapter 9](#Chapter9)
+  - [Chapter 10](#Chapter10)
+  - [Chapter 10](#Chapter11)
+  - [Chapter 10](#Chapter12)
   
-
 
 ## Installation
 - Python 3.6.8
@@ -32,37 +34,51 @@
 - tensorflow-text 2.3.0
 
 
-
-
+# Part 1 GANと生成モデル入門 
+ 
+ 
 ## Chapter 2
-
+オートエンコーダを用いた生成モデル VAE
 
 
 ## Chapter 3
-
+はじめてのGAN：手書き文字の生成 
 
 
 ## Chapter 4
+深層畳み込みGAN：DCGAN 
 
+# Part 2 GANの発展的な話題  
+ 
 
 ## Chapter 5
-
+訓練とよくある課題：GANをうまく動かすために
 
 ## Chapter 6
-
+プログレッシブなGAN 
 
 ## Chapter 7
-
+半教師あり学習 
 
 ## Chapter 8
+条件付きGAN 
+
+
+## Part 3 ここからどこへ進むべきか 
 
 
 ## Chapter 9
-
+CycleGAN 
 
 ## Chapter 10
+敵対的サンプル
 
 
+## Chapter 11
+GANの実用的な応用
+
+## Chapter 12
+将来に向けて
 
 ### Original code: 
 * Chapter 2: [Colab](https://colab.research.google.com/drive/1CPz-YvvJV8gHlsD2o68B0FYKFzaT6RCA), [Notebook](https://github.com/GANs-in-Action/gans-in-action/tree/master/chapter-2)
