@@ -40,6 +40,8 @@
 ## Chapter2
 オートエンコーダを用いた生成モデル VAE
 
+[Chapter_2_VAE.ipynb](https://nbviewer.jupyter.org/github/Tanukiii/GANs-in-Action-Tensorflow2.0-ver/blob/master/chapter-2/Chapter_2_VAE.ipynb)
+
 
 ## Chapter3
 はじめてのGAN：手書き文字の生成 
