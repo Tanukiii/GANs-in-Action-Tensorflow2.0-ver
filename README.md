@@ -1,10 +1,14 @@
-# [GANs in Action](https://www.manning.com/books/gans-in-action)
+# [GANs in Action](https://github.com/GANs-in-Action/gans-in-action)
 
 こちらは実践GAN(GANs-in-Action)をTensorflow2.0で自分なりに書き直して、学習の為に注釈をつけたものです。
 もし間違いがあれば、教えていただけると幸いです。
+
+This repository is for my study, and I rewrite the original codes in Tensorflow2.0 and put comments.
+Let me know, if you find mistakes.
+
 (｀・ω・´)
 
-僕の[ブログ](https://tanuki.blog)です。
+僕の[ブログ](https://tanuki.blog)です。(my blog)
 
 ## Summary Installation
 
