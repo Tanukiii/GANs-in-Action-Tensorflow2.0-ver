@@ -3,7 +3,8 @@
 こちらは実践GAN(GANs-in-Action)をTensorflow2.0で自分なりに書き直して、学習の為に注釈をつけたものです。
 もし間違いがあれば、教えていただけると幸いです。
 
-This repository is for my study, and I rewrite the original codes in Tensorflow2.0 and put comments.
+I rewrite the original codes in Tensorflow2.0 and put comments for my study.
+
 Let me know, if you find mistakes.
 
 (｀・ω・´)
