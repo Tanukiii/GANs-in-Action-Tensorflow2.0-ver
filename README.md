@@ -11,7 +11,7 @@ Let me know, if you find mistakes.
 
 僕の[ブログ](https://tanuki.blog)です。(my blog)
 
-## Summary Installation
+## Summary 
 
   - [Installation](#Installation)
   - [Chapter 2](#Chapter2)
@@ -51,6 +51,7 @@ Let me know, if you find mistakes.
 ## Chapter3
 はじめてのGAN：手書き文字の生成 
 
+[Chapter_3_GAN.ipynb](https://nbviewer.jupyter.org/github/Tanukiii/GANs-in-Action-Tensorflow2.0-ver/blob/master/chapter-3/Chapter_3_GAN.ipynb)
 
 ## Chapter4
 深層畳み込みGAN：DCGAN 
