@@ -1,4 +1,5 @@
-# [GANs in Action](https://github.com/GANs-in-Action/gans-in-action)
+# GANs in Action - Tensorflow 2.0ver 
+## 実践GAN-Tensorflow 2.0ver
 
 こちらは実践GAN(GANs-in-Action)をTensorflow2.0で自分なりに書き直して、学習の為に注釈をつけたものです。
 もし間違いがあれば、教えていただけると幸いです。
