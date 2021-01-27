@@ -57,6 +57,8 @@ Let me know, if you find mistakes.
 ## Chapter4
 深層畳み込みGAN：DCGAN 
 
+[Chapter_4_DCGAN.ipynb](https://nbviewer.jupyter.org/github/Tanukiii/GANs-in-Action-Tensorflow2.0-ver/blob/master/chapter-4/Chapter_4_DCGAN.ipynb)
+
 # Part 2 GANの発展的な話題  
  
 
